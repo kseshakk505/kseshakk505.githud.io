@@ -1,2 +1,4 @@
 # Git
-* git i
+* git init
+* git add
+* git commit
