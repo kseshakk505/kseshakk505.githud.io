@@ -5,7 +5,14 @@
         <title>Web</title>
     </head>
     <body>
-        <img scr="./>
+        <img scr="./faysk0uk7dtcc2xtmlcwgvw6yg0muoll.png">
+        <ul>
+            <l1>html</l1>
+            <ol>
+                 <l1>Конспект</l1>
+                  <l1>Задание</l1>
+            </ol>
+            <l1>css</l1>
         <h1>Web</h1>
         <h2>html</h2>
         <p>Язык разметки страниц, см
