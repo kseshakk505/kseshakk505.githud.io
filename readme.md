@@ -7,7 +7,7 @@
     <body>
         <img scr="./faysk0uk7dtcc2xtmlcwgvw6yg0muoll.png">
         <ul>
-            <l1><a href="index.html">html</l1>
+            <l1><a href="index.html">html</a></l1>
             <ol>
                  <l1>Конспект</l1>
                   <l1>Задание</l1>
