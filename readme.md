@@ -1,4 +1,8 @@
 # Git
 * git init
+* git status
 * git add
-* git commit
+* git commit -m "text"
+* git push origin main
+* git log
+* git chekout
