@@ -5,6 +5,8 @@
         <title>Web</title>
     </head>
     <body>
+        <h1>Web</h1>
+        <h2>html</h2>
         Привет, мир!
     </body>
 </html>
