@@ -5,12 +5,13 @@
         <title>Web</title>
     </head>
     <body>
+        <img scr=">
         <h1>Web</h1>
         <h2>html</h2>
         <p>Язык разметки страниц, см
             <a href="https://ru.wikipedi.org/wiki/html">html</a>/
             Привет, мир!
         </p>
-        
+
     </body>
 </html>
