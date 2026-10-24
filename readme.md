@@ -7,6 +7,7 @@
     <body>
         <h1>Web</h1>
         <h2>html</h2>
+        <p>Язык разметки страниц, см <a href="https://ru.wi
         Привет, мир!
     </body>
 </html>
