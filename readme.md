@@ -5,7 +5,7 @@
         <title>Web</title>
     </head>
     <body>
-        <img scr=">
+        <img scr="./>
         <h1>Web</h1>
         <h2>html</h2>
         <p>Язык разметки страниц, см
